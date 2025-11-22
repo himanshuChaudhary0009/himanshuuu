@@ -46,6 +46,4 @@ Here’s a sneak peek of the platform in action:
 
 ![Crop_Yield_Prediction Preview](Screenshot_2.png)
 
-- Create a MySQL database (e.g., `crop_yield_db`).
-- Import the database schema from `database/schema.sql` (if available).
-- Update the database credentials in `config/database.php` with your MySQL details.
+
