@@ -36,30 +36,7 @@ Here’s a sneak peek of the platform in action:
 
 Crop_Yield_Prediction Preview
 
-🚀 Installation Guide
-Follow these steps to set up the project on your local machine:
 
-1️⃣ Clone the Repository
-git clone https://github.com/vaibhav1826/Crop_Yield_Prediction.git
-2️⃣ Set Up the Web Server
-Move the project folder to your web server’s root directory (e.g., htdocs for XAMPP).
-Start your web server (Apache) and ensure PHP is enabled.
-3️⃣ Configure the Database
-Create a MySQL database (e.g., crop_yield_db).
-Import the database schema from database/schema.sql (if available).
-Update the database credentials in config/database.php with your MySQL details.
-4️⃣ Integrate the Weather API
-Sign up for a Weather API key (e.g., from OpenWeatherMap).
-Add your API key to the configuration file (e.g., config/api.php).
-5️⃣ Set Up User Authentication 🔒
-The portal allows users to register and log in securely.
-Passwords are hashed using PHP’s password_hash() function.
-PHP sessions track logged-in users and restrict access to protected pages.
-Logout functionality ensures users can securely end their session.
-6️⃣ Launch the Application 🌱
-Open your web browser and visit:
-➡️ http://localhost/Crop_Yield_Prediction
-Register an account or log in to start exploring weather-based crop yield predictions effortlessly!
 🌾 This portal empowers farmers with data-driven insights, enabling better crop management and maximizing agricultural productivity. 🌱💡
 
-Smart farming begins with smart decisions! 🚜💻
+Smart farming begins with smart deci
